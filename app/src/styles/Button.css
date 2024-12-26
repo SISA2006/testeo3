@@ -1,0 +1,36 @@
+.form-container {
+    background-color: rgba(240, 247, 255, 0.438);
+}
+
+.form-title{
+    font-size: 30px;
+    font-weight: bolder;
+    color:cornflowerblue;
+    font-family:Georgia;
+}
+
+.form {
+    display: flex;
+    width: 400px;
+    flex-direction: column;
+    margin: auto;
+    text-align: left;
+}
+
+.form-subtitle{
+    font-size: 19px;
+    font-weight: bolder;
+    color:cornflowerblue;
+    font-family:Georgia;
+}
+
+.press {
+    background-color:aqua;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:cornflowerblue;
+    font-family:Georgia;
+    margin:auto;
+    margin-top:5%;
+}

@@ -1,0 +1,41 @@
+.containerC {
+    background-color: rgba(232, 255, 26, 0.438);
+}
+
+.titleC{
+    font-size: 30px;
+    font-weight: bolder;
+    color:rgb(198, 21, 247);
+    font-family:Georgia;
+}
+
+.subtitleC{
+    font-size: 19px;
+    font-weight: bolder;
+    color:rgb(198, 21, 247);
+    font-family:Georgia;
+}
+
+.pressM {
+    background-color:rgb(0, 255, 174);
+    width: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    color:rgb(252, 29, 174);
+    font-family:sans-serif;
+    margin:auto;
+    margin-left:2%;
+    margin-right:2%;
+}
+
+.pressP {
+    background-color:rgb(0, 255, 174);
+    width: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    color:rgb(252, 29, 174);
+    font-family:sans-serif;
+    margin:auto;
+    margin-left:2%;
+    margin-right:2%;
+}
